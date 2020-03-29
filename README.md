@@ -21,7 +21,9 @@ iv.	Thiazolidinediones
 v.	Alpha-glucosidase inhibitors
 
 ## Second Stage
-
+Now that we’ve completed stage one of the model, we may now move to the second stage which will provide the drug option after the stage 1 objective has been achieved. The goal of the second stage which will be to provide a drug from the filtered list that is the least expensive. 
+## Payoffs
+The maximum payoff would be an A1C of 7%. Per the Mayo Clinic,, the target A1C range for a patient with diabetes is less than 7%. A minimum payoff would be an A1C of 8%. 
 # Predictive Model
 ## First Stage 
 •	The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A-1 C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.
@@ -33,5 +35,5 @@ v.	Alpha-glucosidase inhibitors
 ## Expectations
 	After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A!C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
 
-#Results
+# Results
 Currently there aren’t any results.
