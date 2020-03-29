@@ -22,8 +22,8 @@ There are two stages in the decision model. The first stage of the decision mode
 <li>Thiazolidinediones</li>
 <li>Alpha-glucosidase inhibitors</li>
 	</ol>
-	
-![A1C Target](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)	
+<br></br>	
+![Figure 1](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)	
 	
 ## Second Stage
 Now that we’ve completed stage one of the model, we may now move to the second stage which will provide the drug option after the stage 1 objective has been achieved. The goal of the second stage which will be to provide a drug from the filtered list that is the least expensive. 
