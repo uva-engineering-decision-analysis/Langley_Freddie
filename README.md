@@ -33,7 +33,11 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic,, the target A1C r
 # Predictive Model
 ## First Stage 
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
-
+| Drug       | Effectiveness          | Cost |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
