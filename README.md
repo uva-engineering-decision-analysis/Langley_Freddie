@@ -32,12 +32,10 @@ Now that we’ve completed stage one of the model, we may now move to the second
 The maximum payoff would be an A1C of 7%. Per the Mayo Clinic,, the target A1C range for a patient with diabetes is less than 7%. A minimum payoff would be an A1C of 8%. 
 # Predictive Model
 ## First Stage 
-•The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A-1 C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.
-•In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
+The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
 
 ## Second Stage
-•Provide a drug option that meets the threshold clinical standard 
-•To choose the drug that meets the standard of clinical care at the lowest cost.
+After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
 After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A1C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
 
