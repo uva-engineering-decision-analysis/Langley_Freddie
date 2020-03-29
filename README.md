@@ -29,7 +29,7 @@ There are two stages in the decision model. The first stage of the decision mode
 ## Second Stage
 Now that we’ve completed stage one of the model, we may now move to the second stage which will provide the drug option after the stage 1 objective has been achieved. The goal of the second stage which will be to provide a drug from the filtered list that is the least expensive. 
 ## Payoffs
-The maximum payoff would be an A1C of 7%. Per the Mayo Clinic,, the target A1C range for a patient with diabetes is less than 7%. A minimum payoff would be an A1C of 8%. 
+The maximum payoff would be an A1C of 7%. Per the Mayo Clinic, the target A1C range for a patient with diabetes is less than 7%. A minimum payoff would be an A1C of 8%. 
 # Predictive Model
 ## First Stage 
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
