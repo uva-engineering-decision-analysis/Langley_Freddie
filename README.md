@@ -1,4 +1,4 @@
-# Langley_Freddie
+# Decision & Diabetes
 # Introduction
 The cost of insulin has skyrocketed in the 21st century. The cost of insulin can surge to over $250 for a vial of insulin and due to the sensitivity of a patient’s glucose level, multiple vials may be required for their therapeutic intervention. You cannot put a price on healthcare but in the case of medicine, we can execute cost effectiveness analysis to provide options for a patient to make a decision regarding their medication dosage. There is not a commonality in how patients with Diabetes respond to the medication. More importantly there is not a commonality in the affordability for patients with diabetes. Insulin is not the only way to manage diabetes. Other therapeutic interventions include Metformin (Glucophage) as well as combination therapy. In this particular scenario, this analysis will provide the cost of the diabetic therapeutic intervention in relation to lower glucose levels. The trade-off is that patients will have to make greater energy expenditures as well as modest diet choices. 
 # Problem
