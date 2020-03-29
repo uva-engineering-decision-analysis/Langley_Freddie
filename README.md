@@ -35,9 +35,13 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic,, the target A1C r
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
 | Drug       | Effectiveness          | Cost |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Insulin      | 1%-2.5% | Free- $250 per month |
+| Biguanides (Metformin)      | 1.3% to 2.0%    | $4-100 per month|
+| Sulfonylureas | 1-2%     |  $15-$35 per month|
+| Thiazolidinediones |1-1.25%   |  $71< per month|
+| Dipeptidyl-peptidase 4 (DPP-4) inhibitors | .5%-.8%    |   $71-$100 per month |
+| Alpha-glucosidase inhibitors | 1%     |  $15-$186 per month |
+| Meglitinides | .75%     |   $16-$70 per month|
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
