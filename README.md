@@ -10,15 +10,19 @@ To maximize the quality of health subject to constraints of medication expenditu
 # Decision Model
 ## First Stage
 There are two stages in the decision model. The first stage of the decision model is to first provide the best medication or treatment plan towards lowering the patient’s A1C. This stage is very important because it provides the practice of medical ethics within the model. The number one goal is to provide the best therapy for the patient regardless of the cost but the cost will be considered in the second stage. The menu of options in the first stage are Insulin, Metformin, and combination therapy. The first step in generating this stage relied heavily on the current data that has been provided by endocrinologist as well as diabetes research centers. By using this data, I was able to find a percentage of each type of medication that will lower the A1 C of the patient. For example, if a patient has an A1 C of nine, the decision model will then take the percentage documented in the research and subtract the percentage value from the current A1C. This prediction will only take place with respect to the treatment plans guidelines provided by the American Diabetes Association. In this section you will find a table that provides the guidelines for the treatment plan with respect to the A1C, patient lifestyle, and BMI. I have chosen to follow these particular guidelines due to the fact that I am not a healthcare professional and I cannot simply create a predictive tool without having the proper knowledge. Below you will find the menu of options in in outline form as well as a figure of the American Diabetes Association treatment plan for newly diagnosed patients. Following the menu of options and go figure, I will then described the second stage of the descriptive model.
-1.	Menu of Options
-a.	Insulin
-b.	Metformin (Biguanide)
-c.	Combination Therapy (Metformin+ Another Diabetes Drug)
-i.	Meglitinides
-ii.	Sulfonylureas
-iii.	Dipeptidyl-peptidase 4 (DPP-4) inhibitors
-iv.	Thiazolidinediones
-v.	Alpha-glucosidase inhibitors
+### Menu of Options
+<ol>
+	<li>Insulin</li>
+	<li>Metformin (Biguanide)</li>
+	<li>Combination Therapy (Metformin+ Another Diabetes Drug)</li>
+	<ol>
+<li>Meglitinides</li>
+<li>Sulfonylureas</li>
+<li>Dipeptidyl-peptidase 4 (DPP-4) inhibitors</li>
+<li>Thiazolidinediones</li>
+<li>Alpha-glucosidase inhibitors</li>
+	</ol>
+
 
 ## Second Stage
 Now that we’ve completed stage one of the model, we may now move to the second stage which will provide the drug option after the stage 1 objective has been achieved. The goal of the second stage which will be to provide a drug from the filtered list that is the least expensive. 
