@@ -23,6 +23,7 @@ There are two stages in the decision model. The first stage of the decision mode
 <li>Alpha-glucosidase inhibitors</li>
 	</ol>
 	
+	
 ![Figure 1](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)	
 	
 ## Second Stage
