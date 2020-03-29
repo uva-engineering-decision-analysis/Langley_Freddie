@@ -37,7 +37,7 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic,, the target A1C r
 •	Provide a drug option that meets the threshold clinical standard 
 •To choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
-	After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A!C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
+After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A!C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
 
 # Results
 Currently there aren’t any results.
