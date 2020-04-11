@@ -17,6 +17,7 @@ Patient C has been diagnosed with a chronic disease called Diabetes. It is known
 	
 	
 ![Figure 1](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)
+Figure 1 - Courtesy of the American Diabetes Association
 # Objective
 To maximize the quality of health subject to constraints of medication expenditures
 1)	Which options will be clinically effective in achieving the A1c within the preferred threshold.
