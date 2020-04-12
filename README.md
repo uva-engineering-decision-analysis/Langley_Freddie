@@ -37,7 +37,7 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic, the target A1C ra
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
 | Drug       | Effectiveness          | Cost to the Patient | Overall Cost|
 | ------------- |:-------------:| -----:|-----: |
-| Lifestyle Intervention  (Losing 10% of Body Fat)    |  |  | Varies|
+| Lifestyle Intervention  (Losing 10% of Body Fat)    | .66% |  | Varies|
 | Lifestyle Intervention + Metformin    | | Cost of Food and Gym Memebership + Cost of Metformin| Varies |
 | Insulin      | 1%-2.5% | | |
 | Biguanides (Metformin)      |  1.3%-2.5% | | |
@@ -47,7 +47,7 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 
 Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.
 
-Ypu may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. 
+You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. 
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
