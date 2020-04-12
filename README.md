@@ -37,7 +37,7 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic, the target A1C ra
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
 | Drug       | Effectiveness          | Cost to the Patient | Overall Cost|
 | ------------- |:-------------:| -----:|-----: |
-| Lifestyle Intervention      | |  | Varies|
+| Lifestyle Intervention  (Losing 10% of Body Fat)    |  |  | Varies|
 | Lifestyle Intervention + Metformin    | | Cost of Food and Gym Memebership + Cost of Metformin| Varies |
 | Insulin      |  | | |
 | Biguanides (Metformin)      |   | | |
