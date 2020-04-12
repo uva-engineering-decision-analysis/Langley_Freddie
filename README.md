@@ -39,13 +39,12 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 | ------------- |:-------------:| -----:|-----: |
 | Lifestyle Intervention  (Losing 10% of Body Fat)    |  |  | Varies|
 | Lifestyle Intervention + Metformin    | | Cost of Food and Gym Memebership + Cost of Metformin| Varies |
-| Insulin      |  | | |
-| Biguanides (Metformin)      |   | | |
-| Sulfonylureas |  |  | |
-| Thiazolidinediones | | | |
-| Dipeptidyl-peptidase 4 (DPP-4) inhibitors |  |  | |
-| Alpha-glucosidase inhibitors |  |  | |
-| Meglitinides |  |  | |
+| Insulin      | 1%-2.5% | | |
+| Biguanides (Metformin)      |  1.3%-2.5% | | |
+| Sulfonylureas | 1-2% |  | |
+| Thiazolidinediones |.5-1.25% | | |
+| Dipeptidyl-peptidase 4 (DPP-4) inhibitors | .5%-.8% |  | |
+
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
