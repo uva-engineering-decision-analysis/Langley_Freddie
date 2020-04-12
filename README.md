@@ -44,7 +44,7 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 | Sulfonylureas | 1-2% |  | |
 | Thiazolidinediones |.5-1.25% | | |
 | Dipeptidyl-peptidase 4 (DPP-4) inhibitors | .5%-.8% |  | |
-
+Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
