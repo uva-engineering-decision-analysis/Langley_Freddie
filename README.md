@@ -38,7 +38,7 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 | Drug       | Effectiveness          | Cost to the Patient | Overall Cost|
 | ------------- |:-------------:| -----:|-----: |
 | Lifestyle Intervention  (Losing 10% of Body Fat)    | .66% |  | Varies|
-| Lifestyle Intervention + Metformin    | | Cost of Food and Gym Memebership + Cost of Metformin| Varies |
+| Lifestyle Intervention + Metformin    | .66%-2.5%| Cost of Food and Gym Memebership + Cost of Metformin| Varies |
 | Insulin      | 1%-2.5% | | |
 | Biguanides (Metformin)      |  1.3%-2.5% | | |
 | Sulfonylureas | 1-2% |  | |
