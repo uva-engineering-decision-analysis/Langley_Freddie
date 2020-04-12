@@ -39,13 +39,13 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 | ------------- |:-------------:| -----:|-----: |
 | Lifestyle Intervention      | | Free- $250 per month | Varies|
 | Lifestyle Intervention + Metformin    | | Cost of Food and Gym Memebership + Cost of Metformin| Varies |
-| Insulin      | 1%-2.5% | Free- $250 per month | |
-| Biguanides (Metformin)      | 1.3% to 2.0%    | $4-100 per month| |
-| Sulfonylureas | 1-2%     |  $15-$35 per month| |
-| Thiazolidinediones |1-1.25%   |  $71< per month| |
-| Dipeptidyl-peptidase 4 (DPP-4) inhibitors | .5%-.8%    |   $71-$100 per month | |
-| Alpha-glucosidase inhibitors | 1%     |  $15-$186 per month | |
-| Meglitinides | .75%     |   $16-$70 per month| |
+| Insulin      |  | Free- $250 per month | |
+| Biguanides (Metformin)      |   | $4-100 per month| |
+| Sulfonylureas |  |  $15-$35 per month| |
+| Thiazolidinediones | |  $71< per month| |
+| Dipeptidyl-peptidase 4 (DPP-4) inhibitors |  |   $71-$100 per month | |
+| Alpha-glucosidase inhibitors |  |  $15-$186 per month | |
+| Meglitinides |  |   $16-$70 per month| |
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
