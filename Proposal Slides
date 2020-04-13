@@ -1,23 +1,12 @@
----
-title: 'Introduction to Bayesian Methods'
- # subtitle: ''
-author: "Arthur Small"
-institute: "Spring 2020" 
-date:   SYS 6014 Decision Analysis
-output:
-  beamer_presentation:
- #   theme: "metropolis"
-    theme: "AnnArbor"
-    colortheme: "dolphin"
-    fonttheme: "structuresmallcapsserif"
-    toc: false
-    #toc_depth: 3
-    slide_level: 3
-    fig_width: 3.5
-    fig_height: 3
-    fig_caption: true
-    
-   # html_document:
-   #  toc: true
-   
----
+slide(.x, .f, ..., .before = 0L, .after = 0L, .step = 1L, .complete = FALSE)
+
+slide_vec(
+  .x,
+  .f,
+  ...,
+  .before = 0L,
+  .after = 0L,
+  .step = 1L,
+  .complete = FALSE,
+  .ptype = NULL
+)
