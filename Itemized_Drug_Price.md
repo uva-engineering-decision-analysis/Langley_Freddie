@@ -8,6 +8,12 @@
 |Glucotrol (glipizide) | | | |
 |Amaryl (glimepiride) | | | |
 |Glucotrol XL (glipizide ER) | | | |
-|GLyburide| | | |
+|Glyburide| | | |
+|Tolazamide| | | |
+|Chlorpropamide| | | |
+|Diabeta| | | |
+|Tolbutamide| | | |
 | Thiazolidinediones |.5-1.25% |$12.00-$181.33 | $70-$203|
+|Actos| | | |
+|Avandia| | | |
 | Dipeptidyl-peptidase 4 (DPP-4) inhibitors | .5%-.8% |  $113-$498| $344-$596|
