@@ -75,7 +75,11 @@ Step 2a)           If you are unable to meet the clinical threshold with monothe
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ## Results
-Currently there aren’t any results.
+# Manual Results
+Patient 1- 
+Baseline A1C: 10.4
+Drug Options: Insulin + Metfomin, Fortamet+Metformin, Actos+Avandia, Amaryl+Insulin
+Cheapest Treatmet Plan: Amaryl+Insulin = $54
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
 
