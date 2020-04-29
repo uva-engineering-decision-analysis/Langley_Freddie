@@ -1,8 +1,8 @@
 # Decision & Diabetes
 # Introduction
-The cost of Type 2 Diabetes medication has skyrocketed in the 21st century. The cost of insulin can surge to over $250 for a vial of insulin and due to the sensitivity of a patient’s glucose level, multiple vials may be required for their therapeutic intervention. You cannot put a price on healthcare but in the case of medicine, we can execute cost effectiveness analysis to provide options for a patient to make a decision regarding their medication dosage. There is not a commonality in how patients with Diabetes respond to the medication. More importantly there is not a commonality in the affordability for patients with diabetes. Insulin is not the only way to manage diabetes. Other therapeutic interventions include Metformin (Glucophage) as well as combination therapy. In this particular scenario, this analysis will provide the cost of the diabetic therapeutic intervention in relation to lower glucose levels. The trade-off is that patients will have to make greater energy expenditures as well as modest diet choices. 
+The cost of Type 2 Diabetes medication has skyrocketed in the 21st century. The cost of insulin can surge to over $250 for a vial of insulin and due to the sensitivity of a patient’s glucose level, multiple vials may be required for their therapeutic intervention. You cannot put a price on healthcare but in the case of medicine, we can execute cost effectiveness analysis to provide options for a patient to make a decision regarding their medication dosage. There is not a commonality in how patients with Diabetes respond to the medication. More importantly there is not a commonality in the affordability for patients with diabetes. Insulin is not the only way to manage diabetes.(4) Other therapeutic interventions include Metformin (Glucophage) as well as combination therapy.(3) In this particular scenario, this analysis will provide the cost of the diabetic therapeutic intervention in relation to lower glucose levels. The trade-off is that patients will have to make greater energy expenditures as well as modest diet choices. 
 # Problem
-Patient C has been diagnosed with a chronic disease called Diabetes. It is known that patients with the same diseases do not respond similarity to the types and dosages of medicine. There are a number of factors involved in the success of a patient responding to the medication positively. Those factors include stress level, diet, and exercise. Considering those factors, an injection may be the best route or patients can receive therapy in a pill form. Patent C has been experiencing A1C test results if 10.4% and 11.1%. The standard that patients should shoot for is under 5.5%. If the patient chooses to not change their medication, they could experience some serious health issues that stem from the complications of Diabetes. Figure 1 displays the current treatment plan recommendneded by the American Diabetes Association. As you read over the flow chart, you will see that the treatment plan is based off of the patients's A1C. The difference between the current treatment plan and my model is that my model will idenntify from the menu of options those that meet a clinical threshold first and foresmost. Following the initial step, the model will then provide a drug from the filtered list that is the least expensive.
+Patient C has been diagnosed with a chronic disease called Diabetes. It is known that patients with the same diseases do not respond similarity to the types and dosages of medicine.(7) There are a number of factors involved in the success of a patient responding to the medication positively. (6) Those factors include stress level, diet, and exercise. (5) Considering those factors, an injection may be the best route or patients can receive therapy in a pill form. Patent C has been experiencing A1C test results if 10.4% and 11.1%. The standard that patients should aim for is under 5.5%. If the patient chooses to not change their medication, they could experience some serious health issues that stem from the complications of Diabetes. Figure 1 displays the current treatment plan recommendneded by the American Diabetes Association. As you read over the flow chart, you will see that the treatment plan is based off of the patients's A1C.(1) The difference between the current treatment plan and my model is that my model will identify from the menu of options those that meet a clinical threshold first and foresmost. Following the initial step, the model will then provide a drug from the filtered list that is the least expensive.
 <ol>
 	<li>Insulin</li>
 	<li>Metformin (Biguanide)</li>
@@ -76,11 +76,16 @@ Step 2a)           If you are unable to meet the clinical threshold with monothe
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ### MATLAB Reproducibility
-Step 1) Please copy the Matlab script. 
-Step 2) Save the file. 
-Step 3) On line 8 of the script, you will see a Variable named "B." The B is for baseline A1C
-Step 4) Enter a baseline A1C.
-Step 5) Run the script.
+Step 1) Please copy the Matlab script. </br>
+
+Step 2) Save the file. </br>
+
+Step 3) On line 8 of the script, you will see a Variable named "B." The B is for baseline A1C.</br>
+
+Step 4) Enter a baseline A1C.</br>
+
+Step 5) Run the script.</br>
+
 Based off the A1C value, you will yield drug options that first meet the clinical threshold, secondly, the cost of the treatment. 
 # Results
 ## Manual Results
@@ -139,20 +144,20 @@ Riomet + Insulin, Price = $54</br>
 Avandia + Onglyza, Price= $631</br>
 
 ## Forward Work
-Overall, I am pleased with the work of my tool. There is an opportunity for improvement in regards to optimization. I hand entered the data. In addition, there are so many iterations that can take place in respect to combination therapy. If a patient had an A1C over 12%, based off of my current data, they would need to adminster about 3 different types of medication. Respectfully, a patient should do whatever it takes to manage their diabetes but medicating about 3 times a day can me overwhelming. I am hopeful that I can learn of new ways to continously ooptimize my code so that I am not manualing entering data. That is a huge risk within itself. I am open for feedback. 
+Overall, I am pleased with the work of my tool. There is an opportunity for improvement in regards to optimization. I hand entered the data. In addition, there are so many iterations that can take place in respect to combination therapy. If a patient had an A1C over 12%, based off of my current data, they would need to adminster about 3 different types of medication. Respectfully, a patient should do whatever it takes to manage their diabetes but medicating about 3 times a day can me overwhelming. I am hopeful that I can learn of new ways to continously ooptimize my code so that I am not manualing entering data. I am open for feedback. 
 
 ## References
-Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
+1. Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
 
-Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.</br>
+2. Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.</br>
 
-Sherifali, Diana, et al. “The Effect of Oral Antidiabetic Agents on A1C Levels.” Diabetes Care, American Diabetes Association, 1 Aug. 2010, www.care.diabetesjournals.org/content/33/8/1859.</br>
+3. Sherifali, Diana, et al. “The Effect of Oral Antidiabetic Agents on A1C Levels.” Diabetes Care, American Diabetes Association, 1 Aug. 2010, www.care.diabetesjournals.org/content/33/8/1859.</br>
 
-Raz, Itamar. “Guideline Approach to Therapy in Patients With Newly Diagnosed Type 2 Diabetes.” Diabetes Care, American Diabetes Association, 1 Aug. 2013, www.care.diabetesjournals.org/content/36/Supplement_2/S139.</br>
+4. Raz, Itamar. “Guideline Approach to Therapy in Patients With Newly Diagnosed Type 2 Diabetes.” Diabetes Care, American Diabetes Association, 1 Aug. 2013, www.care.diabetesjournals.org/content/36/Supplement_2/S139.</br>
 
-Rashid, Maryam, et al. “Variability in the Therapeutic Response of Metformin Treatment in Patients with Type 2 Diabetes Mellitus.” Pakistan Journal of Medical Sciences, Professional Medical Publications, 2019, www.ncbi.nlm.nih.gov/pmc/articles/PMC6408638/ Strictyly Metformin.</br>
+5. Rashid, Maryam, et al. “Variability in the Therapeutic Response of Metformin Treatment in Patients with Type 2 Diabetes Mellitus.” Pakistan Journal of Medical Sciences, Professional Medical Publications, 2019, www.ncbi.nlm.nih.gov/pmc/articles/PMC6408638/ Strictyly Metformin.</br>
 
-Cavaiola, Tricia Santos. “Management Of Type 2 Diabetes: Selecting Amongst Available Pharmacological Agents.” Endotext [Internet]., U.S. National Library of Medicine, 31 Mar. 2017, www.ncbi.nlm.nih.gov/books/NBK425702/.</br>
+6. Cavaiola, Tricia Santos. “Management Of Type 2 Diabetes: Selecting Amongst Available Pharmacological Agents.” Endotext [Internet]., U.S. National Library of Medicine, 31 Mar. 2017, www.ncbi.nlm.nih.gov/books/NBK425702/.</br>
 
-Tello, Monique. “Rethinking A1c Goals for Type 2 Diabetes.” Harvard Health Blog, 26 Mar. 2018, www.health.harvard.edu/blog/rethinking-a1c-goals-for-type-2-diabetes-2018032613452.</br>
+7. Tello, Monique. “Rethinking A1c Goals for Type 2 Diabetes.” Harvard Health Blog, 26 Mar. 2018, www.health.harvard.edu/blog/rethinking-a1c-goals-for-type-2-diabetes-2018032613452.</br>
 
