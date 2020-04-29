@@ -98,30 +98,46 @@ B =
 
     7.7000
 
-Drug Options That Will Meet Clinical Threshold:
-Riomet, Price=$4
-Glucophage, Price=$4
-Glucotrol, Price= $7
-Amaryl, Price= $4
-Avandia, Price= $181
-Onglyza, Price= $450
-Januvia, Price= $475
-Nesina, Price=$94
+Drug Options That Will Meet Clinical Threshold:</br>
+
+Riomet, Price=$4</br>
+
+Glucophage, Price=$4</br>
+
+Glucotrol, Price= $7</br>
+
+Amaryl, Price= $4</br>
+
+Avandia, Price= $181</br>
+
+Onglyza, Price= $450</br>
+
+Januvia, Price= $475</br>
+
+Nesina, Price=$94</br>
+
 >> DiabetesTreatmentPlan
 
 B =
 
     8.9000
 
-Drug Options That Will Meet Clinical Threshold:
-Amaryl, Price= $4
-Effectiveness=
-Insulin, Price= $50
-Fortamet, Price= $202
-Riomet + Nesina, Price=$98
-Glucophage + Insulin, Price = $54
-Riomet + Insulin, Price = $54
-Avandia + Onglyza, Price= $631
+Drug Options That Will Meet Clinical Threshold:</br>
+
+Amaryl, Price= $4</br>
+
+Insulin, Price= $50</br>
+
+Fortamet, Price= $202</br>
+
+Riomet + Nesina, Price=$98</br>
+
+Glucophage + Insulin, Price = $54</br>
+
+Riomet + Insulin, Price = $54</br>
+
+Avandia + Onglyza, Price= $631</br>
+
 
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
