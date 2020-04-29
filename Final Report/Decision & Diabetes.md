@@ -37,7 +37,7 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic, the target A1C ra
 # Predictive Model
 ## First Stage 
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
-<div align="center">
+
 	
 | Drug       | Effectiveness          | Cost to the Patient | Overall Cost|
 | ------------- |:-------------:| -----:|-----: |
@@ -54,8 +54,8 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 |Nesina|.6%|$94 |$344 |
 |Tradjenta|.4%|$400|$568 |
 
-
-<div align="center">Effectivness data has been provided by www.accessdata.fda.gov </br>
+Table 1.
+Effectivness data has been provided by www.accessdata.fda.gov </br>
 
 Drug Prices have been provide by goodrx.com </br>
 
