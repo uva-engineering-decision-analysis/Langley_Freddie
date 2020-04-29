@@ -76,7 +76,7 @@ Step 2a)           If you are unable to meet the clinical threshold with monothe
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ### MATLAB Reproducibility
-Step 1) Please copy the Matlab script. </br>
+Step 1) Please copy the Matlab script saved in the Final Project folder. </br>
 
 Step 2) Save the file. </br>
 
@@ -89,9 +89,10 @@ Step 5) Run the script.</br>
 Based off the A1C value, you will yield drug options that first meet the clinical threshold, secondly, the cost of the treatment. 
 # Results
 ## Manual Results
+Manual results can be obtained by simply reviewing the effectiveness table above. Remember that the formula is A1C= Baseline A1C- Effectiveness. When combining the therapies, make sure you are adding the effectiveness. Be sure not to over medicate. For example, if my baseline A1C is 7%, I do not need to consider Insulin for its effectiness is 2.5%.
 <u> Patient 1<u> </br>
 
-Baseline A1C: 10.4 </br>
+Baseline A1C: 10.4% </br>
 
 Drug Options: Insulin + Metfomin, Fortamet+Metformin, Actos+Avandia, Amaryl+Insulin </br>
 
