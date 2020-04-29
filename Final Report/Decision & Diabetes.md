@@ -92,7 +92,7 @@ Drug Options: Insulin + Metfomin, Fortamet+Metformin, Actos+Avandia, Amaryl+Insu
 
 Cheapest Treatmet Plan: Amaryl+Insulin = $54
 ## MATLAB Generated Results
-![Results](Results.png) 
+![Results](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1elcdcfdhyba0#attid%253Datt_171c4b09f857c4d4_0.1_b75f4444_4f9c7eb9_db344701_839feabb_536ede8e%25252FResults.png) 
 
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
