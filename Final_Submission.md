@@ -68,12 +68,16 @@ After the drug option(s) that meets the threshold clinical standard has been fil
 ## Expectations
 After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A1C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
 ## Reproducibility
+### Manual Reproducibility
 Step 1) Your baseline A1C must be between 7% to 15%.</br>
 
 Step 2) If you would like to reproduce results manually, you may look at the effectiveness chart above to see which drug option(s) will bring you to the desired clinical threshold. </br>
 Step 2a)           If you are unable to meet the clinical threshold with monotherapy, you may add another drug based off of its effectiveness to satisfy the clinical threshold</br>
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
+### MATLAB Reproducibility
+Step 1) Import the CostToPatient Table.
+Step 2) Import the OverallCost Table
 # Results
 ## Manual Results
 <u> Patient 1<u> </br>
@@ -83,6 +87,8 @@ Baseline A1C: 10.4 </br>
 Drug Options: Insulin + Metfomin, Fortamet+Metformin, Actos+Avandia, Amaryl+Insulin </br>
 
 Cheapest Treatmet Plan: Amaryl+Insulin = $54
+## MATLAB Generated Results
+
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
 
