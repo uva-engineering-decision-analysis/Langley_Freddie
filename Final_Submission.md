@@ -74,8 +74,8 @@ Step 2) If you would like to reproduce results manually, you may look at the eff
 Step 2a)           If you are unable to meet the clinical threshold with monotherapy, you may add another drug based off of its effectiveness to satisfy the clinical threshold</br>
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
-## Results
-# Manual Results
+# Results
+## Manual Results
 <u> Patient 1<u> </br>
 
 Baseline A1C: 10.4 </br>
