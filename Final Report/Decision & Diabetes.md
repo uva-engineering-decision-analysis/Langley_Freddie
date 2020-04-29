@@ -54,7 +54,8 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 |Nesina|.6%|$94 |$344 |
 |Tradjenta|.4%|$400|$568 |
 
-Table 1.
+Table 1. Drug Cost & Effectivness Table </br>
+
 Effectivness data has been provided by www.accessdata.fda.gov </br>
 
 Drug Prices have been provide by goodrx.com </br>
