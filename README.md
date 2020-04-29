@@ -70,8 +70,8 @@ After the model has been executed, I am expecting to be provided a predicted dru
 ## Reproducibility
 Step 1) Your baseline A1C must be between 7% to 15%.</br>
 
-Step 2) If you would like to reproduce results manually, you may look at the effectiveness chart above to see which drug option(s) will bring you to the desired clinical threshold. 
-	a) If you are unable to meet the clinical threshold with monotherapy, you may add another drug based off of its effectiveness to satisfy the clinical threshold</br>
+Step 2) If you would like to reproduce results manually, you may look at the effectiveness chart above to see which drug option(s) will bring you to the desired clinical threshold. </br>
+	2a) If you are unable to meet the clinical threshold with monotherapy, you may add another drug based off of its effectiveness to satisfy the clinical threshold</br>
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ## Results
