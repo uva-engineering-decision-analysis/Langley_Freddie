@@ -76,8 +76,12 @@ Step 2a)           If you are unable to meet the clinical threshold with monothe
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ### MATLAB Reproducibility
-Step 1) Import the CostToPatient Table.
-Step 2) Import the OverallCost Table
+Step 1) Please copy the Matlab script. 
+Step 2) Save the file. 
+Step 3) On line 8 of the script, you will see a Variable named "B." The B is for baseline A1C
+Step 4) Enter a baseline A1C.
+Step 5) Run the script.
+Based off the A1C value, you will yield drug options that first meet the clinical threshold, secondly, the cost of the treatment. 
 # Results
 ## Manual Results
 <u> Patient 1<u> </br>
@@ -88,7 +92,7 @@ Drug Options: Insulin + Metfomin, Fortamet+Metformin, Actos+Avandia, Amaryl+Insu
 
 Cheapest Treatmet Plan: Amaryl+Insulin = $54
 ## MATLAB Generated Results
-
+![](Results.jpg) 
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
 
