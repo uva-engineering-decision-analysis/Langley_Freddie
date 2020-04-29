@@ -37,13 +37,19 @@ The maximum payoff would be an A1C of 7%. Per the Mayo Clinic, the target A1C ra
 The math is fairly simple in the predictive model. Using the percentage of the treatment effectiveness, we will subtract that amount from the baseline A1C. Below you will find a table that lists the different types of diabetic treatments as well as their effectiveness and their cost.In addition, there is a 6% uncertainty associated with the Effectiveness values. This percentage was provided by the data that was used for the model. The uncertainty is important because when we are providing a prediction there are certain lifestyle inputs that we will not simply have every time we input a patient’s A1C.
 | Drug       | Effectiveness          | Cost to the Patient | Overall Cost|
 | ------------- |:-------------:| -----:|-----: |
-| Lifestyle Intervention  (Losing 10% of Body Fat)    | .66% | Varies | Varies|
-| Lifestyle Intervention + Metformin    | .66%-2.5%| Cost of Food and Gym Memebership + Cost of Metformin| Varies |
-| Insulin      | 1%-2.5% |$50-$1122 |$182-$1288 |
-| Biguanides  |  1.3%-2.5% |$4-$619.48 |$7-$2250 |
-| Sulfonylureas | 1-2% | $9-$42 |$7-$371 |
-| Thiazolidinediones |.5-1.25% |$12.00-$181.33 | $70-$203|
-| Dipeptidyl-peptidase 4 (DPP-4) inhibitors | .5%-.8% |  $113-$498| $344-$596|
+| Insulin      | 2.5% |$50 |$1288 |
+|Riomet| 1.4|$4 | $488|
+|Glucophage |1.4 |$4 | $13|
+|Fortamet|2.10 |$202 |$970 |
+|Glucotrol XL (glipizide ER) |1.7 |$7 |$20 |
+|Amaryl (glimepiride) |2% |$13 | $13|
+|Actos|0.6%-1.9% |$11 |$273 |
+|Avandia|0.8%-1.5% |$181 | $20|
+|Onglyza|.4%-.5%|$450 | $524|
+|Januvia|.7%|$475 |$596 |
+|Nesina|.6%|$94 |$344 |
+|Tradjenta|.4%|$400|$568 |
+
 
 Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.
 
