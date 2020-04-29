@@ -144,7 +144,7 @@ Riomet + Insulin, Price = $54</br>
 Avandia + Onglyza, Price= $631</br>
 
 ## Forward Work
-Overall, I am pleased with the work of my tool. There is an opportunity for improvement in regards to optimization. I hand entered the data. In addition, there are so many iterations that can take place in respect to combination therapy. If a patient had an A1C over 12%, based off of my current data, they would need to adminster about 3 different types of medication. Respectfully, a patient should do whatever it takes to manage their diabetes but medicating about 3 times a day can me overwhelming. I am hopeful that I can learn of new ways to continously ooptimize my code so that I am not manualing entering data. I am open for feedback. 
+Overall, I am pleased with the work of my tool. There is an opportunity for improvement in regards to optimization. I hand entered the data. In addition, there are so many iterations that can take place in respect to combination therapy. If a patient had an A1C over 12%, based off of my current data, they would need to administer about 3 different types of medication. Respectfully, a patient should do whatever it takes to manage their diabetes but medicating about 3 times a day can me overwhelming. I am hopeful that I can learn of new ways to continously ooptimize my code so that I am not manualing entering data. I am open for feedback. 
 
 ## References
 1. Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
