@@ -17,8 +17,9 @@ Patient C has been diagnosed with a chronic disease called Diabetes. It is known
 	
 	
 ![Figure 1](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)
-<div align="center">Figure 1 - Courtesy of the American Diabetes Association
-# Objective
+<div align="center">Figure 1 - Courtesy of the American Diabetes Association</br>
+
+# Objective 
 To maximize the quality of health subject to constraints of medication expenditures
 1)	Which options will be clinically effective in achieving the A1c within the preferred threshold.
 2)	If there is more than one drug option that achieves the stage 1 objective , which will be the drug to achieve the objective at the least cost.
