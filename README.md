@@ -54,6 +54,7 @@ You may ask, "what if my A1C is above 10%? The effectiveness listed above will n
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
 After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A1C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
-
+## User Testing
+Three patients with Type 2 Diabetes were chosen. Each patient was prompted to select there A1C. They were then offered a list of treatment plans that meet the clinical threshold, along with the drug's A1C effectiveness. The patient was then prompted to select a drug option that would satisfy their budget. A script was then provided with the drug name.
 # Results
 Currently there aren’t any results.
