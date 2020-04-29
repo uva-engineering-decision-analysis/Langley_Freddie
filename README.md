@@ -19,6 +19,7 @@ Patient C has been diagnosed with a chronic disease called Diabetes. It is known
 ![Figure 1](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)
 <div align="center">Figure 1 - Courtesy of the American Diabetes Association</br>
 <div align="left">
+
 # Objective 
 To maximize the quality of health subject to constraints of medication expenditures
 1)	Which options will be clinically effective in achieving the A1c within the preferred threshold.
@@ -57,7 +58,8 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 <div align="center">Drug Prices have been provide by goodrx.com
 
 <div align="center">You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. 
-
+<div align="left">
+	
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
