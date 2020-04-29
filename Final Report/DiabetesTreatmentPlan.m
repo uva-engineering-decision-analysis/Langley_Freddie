@@ -57,7 +57,6 @@ end
 if (B<9)
     disp ("Drug Options That Will Meet Clinical Threshold:")   
     disp ('Amaryl, Price= $4')
-       disp ('Effectiveness=') 
        disp ('Insulin, Price= $50')
        disp ('Fortamet, Price= $202')
        disp ('Riomet + Nesina, Price=$98')
