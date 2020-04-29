@@ -81,9 +81,9 @@ Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Healt
 
 Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.</br>
 
-Sherifali, Diana, et al. “The Effect of Oral Antidiabetic Agents on A1C Levels.” Diabetes Care, American Diabetes Association, 1 Aug. 2010, care.diabetesjournals.org/content/33/8/1859.</br>
+Sherifali, Diana, et al. “The Effect of Oral Antidiabetic Agents on A1C Levels.” Diabetes Care, American Diabetes Association, 1 Aug. 2010, www.care.diabetesjournals.org/content/33/8/1859.</br>
 
-Raz, Itamar. “Guideline Approach to Therapy in Patients With Newly Diagnosed Type 2 Diabetes.” Diabetes Care, American Diabetes Association, 1 Aug. 2013, care.diabetesjournals.org/content/36/Supplement_2/S139.</br>
+Raz, Itamar. “Guideline Approach to Therapy in Patients With Newly Diagnosed Type 2 Diabetes.” Diabetes Care, American Diabetes Association, 1 Aug. 2013, www.care.diabetesjournals.org/content/36/Supplement_2/S139.</br>
 
 Rashid, Maryam, et al. “Variability in the Therapeutic Response of Metformin Treatment in Patients with Type 2 Diabetes Mellitus.” Pakistan Journal of Medical Sciences, Professional Medical Publications, 2019, www.ncbi.nlm.nih.gov/pmc/articles/PMC6408638/ Strictyly Metformin.</br>
 
