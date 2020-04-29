@@ -76,7 +76,7 @@ Step 2a)           If you are unable to meet the clinical threshold with monothe
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ## Results
 # Manual Results
-Patient 1- </br>
+<u> Patient 1</u> </br>
 
 Baseline A1C: 10.4 </br>
 
