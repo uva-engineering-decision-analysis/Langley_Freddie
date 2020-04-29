@@ -17,7 +17,7 @@ Patient C has been diagnosed with a chronic disease called Diabetes. It is known
 	
 	
 ![Figure 1](https://care.diabetesjournals.org/content/diacare/36/Supplement_2/S139/F1.large.jpg)
-Figure 1 - Courtesy of the American Diabetes Association
+<div align="center">Figure 1 - Courtesy of the American Diabetes Association
 # Objective
 To maximize the quality of health subject to constraints of medication expenditures
 1)	Which options will be clinically effective in achieving the A1c within the preferred threshold.
@@ -27,7 +27,7 @@ We measure effectiveness in the difference between A1C through percentages. For 
 
 # Decision Model
 ## First Stage
-There are two stages in the decision model. The first stage of the decision model is to identify from the menu of options those that meet a clinical threshold. This stage is very important because it provides the practice of medical ethics within the model. The number one goal is to provide the best therapy for the patient regardless of the cost but the cost will be considered in the second stage. The menu of options in the first stage are Insulin, Metformin, and combination therapy. The first step in generating this stage relied heavily on the current data that has been provided by endocrinologist as well as diabetes research centers. By using this data, I was able to find a percentage of each type of medication that will lower the A1 C of the patient. For example, if a patient has an A1 C of nine, the decision model will then take the percentage documented in the research and subtract the percentage value from the current A1C. This prediction will only take place with respect to the treatment plans guidelines provided by the American Diabetes Association. In this section you will find a table that provides the guidelines for the treatment plan with respect to the A1C, patient lifestyle, and BMI. I have chosen to follow these particular guidelines due to the fact that I am not a healthcare professional and I cannot simply create a predictive tool without having the proper knowledge. Below you will find the menu of options in in outline form as well as a figure of the American Diabetes Association treatment plan for newly diagnosed patients. Following the menu of options and go figure, I will then described the second stage of the descriptive model.
+There are two stages in the decision model. The first stage of the decision model is to identify from the menu of options those that meet a clinical threshold. This stage is very important because it provides the practice of medical ethics within the model. The number one goal is to provide the best therapy for the patient regardless of the cost but the cost will be considered in the second stage. The menu of options in the first stage are Insulin, Metformin, and combination therapy. The first step in generating this stage relied heavily on the current data that has been provided by endocrinologist as well as diabetes research centers. By using this data, I was able to find a percentage of each type of medication that will lower the A1 C of the patient. For example, if a patient has an A1C of nine percent, the decision model will then take the percentage documented in the research and subtract the percentage value from the current A1C. This prediction will only take place with respect to the treatment plans guidelines provided by the American Diabetes Association. In this section you will find a table that provides the guidelines for the treatment plan with respect to the A1C, patient lifestyle, and BMI. I have chosen to follow these particular guidelines due to the fact that I am not a healthcare professional and I cannot simply create a predictive tool without having the proper knowledge. Below you will find the menu of options in in outline form as well as a figure of the American Diabetes Association treatment plan for newly diagnosed patients. Following the menu of options and go figure, I will then described the second stage of the descriptive model.
 ## Second Stage
 Now that we’ve completed stage one of the model, we may now move to the second stage which will provide the drug option after the stage 1 objective has been achieved. The goal of the second stage which will be to provide a drug from the filtered list that is the least expensive. 
 ## Payoffs
@@ -51,11 +51,11 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 |Tradjenta|.4%|$400|$568 |
 
 
-Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.
+<div align="center">Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.
 
-Drug Prices have been provide by goodrx.com
+<div align="center">Drug Prices have been provide by goodrx.com
 
-You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. 
+<div align="center">You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. 
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
