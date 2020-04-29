@@ -58,9 +58,9 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 
 <div align="center">Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.</br>
 
-<div align="center">Drug Prices have been provide by goodrx.com </br>
+Drug Prices have been provide by goodrx.com </br>
 
-<div align="center">You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. </br>
+You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. </br>
 <div align="left">
 	
 ## Second Stage
@@ -70,6 +70,7 @@ After the model has been executed, I am expecting to be provided a predicted dru
 ## Reproducibility
 Step 1) Your baseline A1C must be between 7% to 15%.
 Step 2) If you would like to reproduce results manually, you may look at the effectiveness chart above to see which drug option(s) will bring you to the desired clinical threshold. 
+	a) If you are unable to meet the clinical threshold with monotherapy, you may add another drug based off of its effectiveness to satisfy the clinical threshold
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ## Results
 Currently there aren’t any results.
