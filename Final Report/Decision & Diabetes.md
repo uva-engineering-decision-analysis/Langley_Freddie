@@ -54,7 +54,6 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 |Nesina|.6%|$94 |$344 |
 |Tradjenta|.4%|$400|$568 |
 
-</br>
 
 <div align="center">Effectivness data has been provided by www.accessdata.fda.gov </br>
 
