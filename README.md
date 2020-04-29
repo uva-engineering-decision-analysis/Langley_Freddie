@@ -68,9 +68,15 @@ Step 3) Once you have reviewed the available drugs, review the cost of the drug.
 Currently there aren’t any results.
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
+
 Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.</br>
+
 Sherifali, Diana, et al. “The Effect of Oral Antidiabetic Agents on A1C Levels.” Diabetes Care, American Diabetes Association, 1 Aug. 2010, care.diabetesjournals.org/content/33/8/1859.</br>
+
 Raz, Itamar. “Guideline Approach to Therapy in Patients With Newly Diagnosed Type 2 Diabetes.” Diabetes Care, American Diabetes Association, 1 Aug. 2013, care.diabetesjournals.org/content/36/Supplement_2/S139.</br>
+
 Rashid, Maryam, et al. “Variability in the Therapeutic Response of Metformin Treatment in Patients with Type 2 Diabetes Mellitus.” Pakistan Journal of Medical Sciences, Professional Medical Publications, 2019, www.ncbi.nlm.nih.gov/pmc/articles/PMC6408638/ Strictyly Metformin.</br>
+
 Cavaiola, Tricia Santos. “Management Of Type 2 Diabetes: Selecting Amongst Available Pharmacological Agents.” Endotext [Internet]., U.S. National Library of Medicine, 31 Mar. 2017, www.ncbi.nlm.nih.gov/books/NBK425702/.</br>
+
 Tello, Monique. “Rethinking A1c Goals for Type 2 Diabetes.” Harvard Health Blog, 26 Mar. 2018, www.health.harvard.edu/blog/rethinking-a1c-goals-for-type-2-diabetes-2018032613452.</br>
