@@ -76,7 +76,7 @@ Step 2a)           If you are unable to meet the clinical threshold with monothe
 	
 Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
 ### MATLAB Reproducibility
-Step 1) Please copy the Matlab script saved in the Final Project folder. </br>
+Step 1) Please copy the Matlab script saved in the Final Report folder. </br>
 
 Step 2) Save the file. </br>
 
