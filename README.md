@@ -60,7 +60,17 @@ You may ask, "what if my A1C is above 10%? The effectiveness listed above will n
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
 After the model has been executed, I am expecting to be provided a predicted drug treatment option that first satisfies the A1C followed with a filtered option. Finally, a single option that is the cheapest for the required A1C.
-## User Testing
-Three patients with Type 2 Diabetes were chosen. Each patient was prompted to select there A1C. They were then offered a list of treatment plans that meet the clinical threshold, along with the drug's A1C effectiveness. The patient was then prompted to select a drug option that would satisfy their budget. A script was then provided with the drug name.
-# Results
+## Reproducibility
+Step 1) Your baseline A1C must be between 7% to 15%.
+Step 2) If you would like to reproduce results manually, you may look at the effectiveness chart above to see which drug option(s) will bring you to the desired clinical threshold. 
+Step 3) Once you have reviewed the available drugs, review the cost of the drug. You may now select the drug that is cheapest in cost. 
+## Results
 Currently there aren’t any results.
+## References
+Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.
+Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.
+Sherifali, Diana, et al. “The Effect of Oral Antidiabetic Agents on A1C Levels.” Diabetes Care, American Diabetes Association, 1 Aug. 2010, care.diabetesjournals.org/content/33/8/1859.
+Raz, Itamar. “Guideline Approach to Therapy in Patients With Newly Diagnosed Type 2 Diabetes.” Diabetes Care, American Diabetes Association, 1 Aug. 2013, care.diabetesjournals.org/content/36/Supplement_2/S139.
+Rashid, Maryam, et al. “Variability in the Therapeutic Response of Metformin Treatment in Patients with Type 2 Diabetes Mellitus.” Pakistan Journal of Medical Sciences, Professional Medical Publications, 2019, www.ncbi.nlm.nih.gov/pmc/articles/PMC6408638/ Strictyly Metformin.
+Cavaiola, Tricia Santos. “Management Of Type 2 Diabetes: Selecting Amongst Available Pharmacological Agents.” Endotext [Internet]., U.S. National Library of Medicine, 31 Mar. 2017, www.ncbi.nlm.nih.gov/books/NBK425702/.
+Tello, Monique. “Rethinking A1c Goals for Type 2 Diabetes.” Harvard Health Blog, 26 Mar. 2018, www.health.harvard.edu/blog/rethinking-a1c-goals-for-type-2-diabetes-2018032613452.
