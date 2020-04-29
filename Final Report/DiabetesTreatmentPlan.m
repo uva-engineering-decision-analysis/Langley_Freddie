@@ -5,7 +5,7 @@
 %-------------------------------------------------------------
 
 %Insert A1C Below
-B=9%Baseline A1C
+B=10.4%Baseline A1C
 %STOP. DO NOT GO ANY FURTHER. YOU ONLY NEED TO TYPE IN YOUR A1C
 
 %--------------------------------------------------------------
@@ -19,7 +19,6 @@ DrugName={'Insulin','Riomet(Metformin)','Glucophage (Metformin)','Fortamet',...
 
 
 limit=12;
-C=A1C2;
 
 %Effectiveness
 Insulin=2.5;
@@ -80,7 +79,11 @@ end
       disp ("Drug Options That Will Meet Clinical Threshold:")
        disp ('Insulin+ Fortamet, Price =$252')
       disp ('Fortamet + Avandia, Price = $383')
-      disp ('Currently at this A1C level, there is only one option for combination therapy, if you choose to take only 2 therapies. You may add three. The overall cost of 3 drugs may be cheaper but you will have to take 3 medications per day.')
+     disp  ('Fortamet+Metformin, Price=$206') 
+       disp ('Actos+Avandia =$193')
+       disp ('Amaryl+Insulin =$54')
+       disp ('Insulin + Onglyza, Price= $500') 
+      disp ('Currently at this A1C level, these are the only one options for combination therapy, if you choose to take only 2 therapies. You may add three. The overall cost of 3 drugs may be cheaper but you will have to take 3 medications per day.')
   end 
        
        
