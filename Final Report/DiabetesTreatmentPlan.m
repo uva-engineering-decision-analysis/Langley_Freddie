@@ -68,7 +68,11 @@ end
 if (B<10) 
     disp ("Drug Options That Will Meet Clinical Threshold:")   
     disp ('Amaryl, Price= $4')
-       disp ('Fortamet + Actos, Price = $192')
+       disp ('Fortamet + Actos, Price = $206')
+       disp ('Insulin + Metfomin,Price=$54) 
+       disp (Fortamet+Metformin, Price=$206) 
+       disp (Actos+Avandia =$193)
+       disp (Amaryl+Insulin =$54)
        disp ('Insulin + Onglyza, Price= $500') 
        return
 end
