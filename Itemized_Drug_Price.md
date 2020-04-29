@@ -1,8 +1,6 @@
 | Drug       | Effectiveness          | Cost to the Patient | Overall Cost|
 | ------------- |:-------------:| -----:|-----: |
-| Lifestyle Intervention  (Losing 10% of Body Fat)    | .66% | Varies | Varies|
-| Lifestyle Intervention + Metformin    | .66%-2.5%| Cost of Food and Gym Memebership + Cost of Metformin| Varies |
-| Insulin      | 2.5% |$50-$1122 |$182-$1288 |
+| Insulin      | 2.5% |$50 |$1288 |
 |Riomet| 1.4|$4 | $488|
 |Glucophage |1.4 |$4 | $13|
 |Fortamet|2.10 |$202 |$970 |
