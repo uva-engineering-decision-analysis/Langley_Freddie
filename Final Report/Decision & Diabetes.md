@@ -56,7 +56,7 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 
 </br>
 
-<div align="center">Chaudhury, Arun, et al. “Clinical Review of Antidiabetic Drugs: Implications for Type 2 Diabetes Mellitus Management.” Frontiers in Endocrinology, Frontiers Media S.A., 24 Jan. 2017, www.ncbi.nlm.nih.gov/pmc/articles/PMC5256065/.</br>
+<div align="center">Effectivness data has been provided by www.accessdata.fda.gov </br>
 
 Drug Prices have been provide by goodrx.com </br>
 
