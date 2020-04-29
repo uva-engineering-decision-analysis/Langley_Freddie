@@ -60,7 +60,7 @@ Effectivness data has been provided by www.accessdata.fda.gov </br>
 
 Drug Prices have been provide by goodrx.com </br>
 
-You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. </br>
+You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin or another therapy to your regimen. </br>
 <div align="left">
 	
 ## Second Stage
