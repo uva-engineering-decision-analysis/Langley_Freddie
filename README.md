@@ -56,6 +56,7 @@ The math is fairly simple in the predictive model. Using the percentage of the t
 <div align="center">Drug Prices have been provide by goodrx.com
 
 <div align="center">You may ask, "what if my A1C is above 10%? The effectiveness listed above will not bring me to the clinical threshold?" The model will then add another drug to your treatment plan. For example, if your A1C is 11%, Metformin at best will decrease your A1C to 8.5%, the model will then add Insulin to your regimen. 
+
 ## Second Stage
 After the drug option(s) that meets the threshold clinical standard has been filtered, the model will choose the drug that meets the standard of clinical care at the lowest cost.
 ## Expectations
