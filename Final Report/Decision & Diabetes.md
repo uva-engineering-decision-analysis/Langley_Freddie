@@ -92,7 +92,36 @@ Drug Options: Insulin + Metfomin, Fortamet+Metformin, Actos+Avandia, Amaryl+Insu
 
 Cheapest Treatmet Plan: Amaryl+Insulin = $54
 ## MATLAB Generated Results
-![Results](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1elcdcfdhyba0#attid%253Datt_171c4b09f857c4d4_0.1_b75f4444_4f9c7eb9_db344701_839feabb_536ede8e%25252FResults.png) 
+>> DiabetesTreatmentPlan
+
+B =
+
+    7.7000
+
+Drug Options That Will Meet Clinical Threshold:
+Riomet, Price=$4
+Glucophage, Price=$4
+Glucotrol, Price= $7
+Amaryl, Price= $4
+Avandia, Price= $181
+Onglyza, Price= $450
+Januvia, Price= $475
+Nesina, Price=$94
+>> DiabetesTreatmentPlan
+
+B =
+
+    8.9000
+
+Drug Options That Will Meet Clinical Threshold:
+Amaryl, Price= $4
+Effectiveness=
+Insulin, Price= $50
+Fortamet, Price= $202
+Riomet + Nesina, Price=$98
+Glucophage + Insulin, Price = $54
+Riomet + Insulin, Price = $54
+Avandia + Onglyza, Price= $631
 
 ## References
 Cornish, Bill. “Antihyperglycemic Agents Comparison Chart.” Sunnybrook Health Sciences Centre, Aug. 2012, hivclinic.ca/main/drugs_extra_files/Antihyperglycemic%20Agents%20Comparison%20Chart.pdf.</br>
